@@ -1,1 +1,3 @@
-# chili-void-awesome-skel
+# voidbr-awesome-config
+
+Skel for Void AWESOME
